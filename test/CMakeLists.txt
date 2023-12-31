@@ -1,0 +1,5 @@
+
+add_executable(test_attribute_group test_attribute_group.cc)
+add_executable(test_attribute_manager test_attribute_manager.cc)
+add_executable(test_attribute test_attribute.cc)
+add_executable(test_new_pointer_scoped_holder test_new_pointer_scoped_holder.cc)
